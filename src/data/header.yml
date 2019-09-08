@@ -1,0 +1,11 @@
+title_url: '#'
+subtitle: Explore Stackbit themes
+actions:
+  - label: Learn More
+    icon: fa-chevron-down
+    url: '#demo-list'
+    is_primary: false
+    is_scrolly: true
+img:
+  path: images/screen.jpg
+  phone_border: true
